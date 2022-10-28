@@ -1,5 +1,4 @@
 <?php
-
 /**
  * The plugin bootstrap file
  *
@@ -14,7 +13,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       WP Book
- * Plugin URI:        https://github.com/preetiashtikarhbwsl/WP-Book
+ * Plugin URI:        https://github.com/preetiashtikarhbwsl/wp-book/
  * Description:       This plugin manages book related funtionalities.
  * Version:           1.0.0
  * Author:            Preeti Ashtikar
